@@ -1,0 +1,59 @@
+html, body, .mainbox{
+    background-color: grey;
+    height: 100%;
+}
+
+.menu{
+    height: 70px;
+
+}
+
+.menu ul{
+    position: relative;
+    top:27px;
+    margin-left: 200px;
+}
+
+
+.menu li{
+    display: inline;
+    list-style-type: none;
+
+    padding-top: 12px;
+    padding-bottom: 10px;
+    padding-left: 12px;
+    padding-right: 10px;
+    width: 13px;
+
+}
+
+.main{
+    width: 100%;
+    text-align: center;
+    background-color: white;
+    padding-top: 15px;
+    height: 130px;
+}
+
+
+.active2{
+    display: inline;
+    list-style-type: none;
+    background-color: #d3363f;
+    padding-top: 12px;
+    padding-bottom: 10px;
+    padding-left: 12px;
+    padding-right: 10px;
+    width: 13px;
+}
+
+.default{
+    display: inline;
+    list-style-type: none;
+    background-color: #aed300;
+    padding-top: 12px;
+    padding-bottom: 10px;
+    padding-left: 12px;
+    padding-right: 10px;
+    width: 13px;
+}
